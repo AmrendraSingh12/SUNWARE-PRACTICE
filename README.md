@@ -1,2 +1,2 @@
 # SUNWARE-PRACTICE
-To practice code
+To practice code of python
